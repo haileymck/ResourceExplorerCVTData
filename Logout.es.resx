@@ -118,18 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ThankYou" xml:space="preserve">
-    <value>Thank you</value>
-    <comment>Comment!!</comment>
+    <value>gracias</value>
   </data>
   <data name="GoodBye" xml:space="preserve">
-    <value>GoodBye</value>
+    <value>adiós</value>
     <comment>Comment!!</comment>
   </data>
   <data name="LogoutSuccess" xml:space="preserve">
-    <value>Logout Success</value>
+    <value>cierre de sesión exitoso</value>
     <comment>Comment!!</comment>
   </data>
   <data name="WellDone" xml:space="preserve">
-    <value>Well Done</value>
+    <value>bien hecho</value>
   </data>
 </root>

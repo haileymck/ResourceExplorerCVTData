@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Success" xml:space="preserve">
-    <value>Success</value>
+    <value>úspěch</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Vítejte</value>
   </data>
   <data name="Password" xml:space="preserve">
-    <value>Password</value>
+    <value>Heslo</value>
   </data>
   <data name="Username" xml:space="preserve">
-    <value>Username</value>
+    <value>uživatelské jméno</value>
   </data>
 </root>

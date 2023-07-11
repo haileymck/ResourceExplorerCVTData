@@ -118,17 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="InvalidData" xml:space="preserve">
-    <value>Invalid Data</value>
+    <value>neplatná data</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
-    <comment>Comment!!</comment>
-  </data>
+    <value>chyba</value>  </data>
   <data name="UnableToParse" xml:space="preserve">
-    <value>Unable to parse</value>
-    <comment>Comment!!</comment>
+    <value>Nelze analyzovat</value>
+    <comment>possible ambigious translation</comment>
   </data>
   <data name="InvalidInput" xml:space="preserve">
-    <value>Invalid Input</value>
+    <value>neplatný vstup</value>
   </data>
 </root>

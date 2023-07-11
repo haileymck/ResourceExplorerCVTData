@@ -122,14 +122,12 @@
     <comment>Comment!!</comment>
   </data>
   <data name="GoodBye" xml:space="preserve">
-    <value>GoodBye</value>
-    <comment>Comment!!</comment>
+    <value>Спасибо</value>
   </data>
   <data name="LogoutSuccess" xml:space="preserve">
-    <value>Logout Success</value>
-    <comment>Comment!!</comment>
+    <value>выход из системы успешно</value>
   </data>
   <data name="WellDone" xml:space="preserve">
-    <value>Well Done</value>
+    <value>отличная работа</value>
   </data>
 </root>
